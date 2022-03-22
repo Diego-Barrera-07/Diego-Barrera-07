@@ -1,4 +1,4 @@
-##Hello, I'm Diego Barrier, a technician in software programming and I'm dedicated to web development.
+ ##Hello, I'm Diego Barrera, a technician in software programming and I'm dedicated to web development.
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diego-Barrera-07&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -12,7 +12,7 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
   
-##
+ ##
 <!---
 Diego-Barrera-07/Diego-Barrera-07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
