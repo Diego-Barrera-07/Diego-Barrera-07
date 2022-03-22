@@ -1,4 +1,4 @@
-Hello, I'm Diego Barrier, a technician in software programming and I'm dedicated to web development.
+##Hello, I'm Diego Barrier, a technician in software programming and I'm dedicated to web development.
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diego-Barrera-07&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
