@@ -1,5 +1,5 @@
-##     Hi, I'm Diego Barrera and I'm a software programming technician.
-I'm learning ReactJs and deepening topics in Nodejs
+##     Hi, I'm Diego Barrera and I'm a software programming technician. 👋👨‍💻
+I'm learning ReactJs and deepening topics in Nodejs. These are the tools I use for my projects:
 
   <br>
 <div style="display: inline_block">
