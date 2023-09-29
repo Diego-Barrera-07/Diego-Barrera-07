@@ -1,4 +1,4 @@
-##     Hi, I'm Diego Barrera and I'm a software programming technician. 👋👨‍💻
+##    Hi, I am a web programmer with a focus on front-end and a software engineering student. 🗺️👨🏻‍💻 
 These are the tools I use for my projects:
 
   <br>
