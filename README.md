@@ -1,18 +1,21 @@
-##    Hi, I am a web programmer with a focus on front-end and a software engineering student. 🗺️👨🏻‍💻 
-These are the tools I use for my projects:
 
-  <br>
+# <img src="https://media3.giphy.com/media/3ohhwyCdNDO380e0I8/giphy.gif?cid=ecf05e47849nqcfpeaob8xozde51qa2o1ayh74craadsrjqp&ep=v1_gifs_related&rid=giphy.gif&ct=s" alt="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="60"/> A simple Developer working on solutions
+ 
+
+The first solution I'm working on is [cityubi.com](https://www.cityubi.com/)
+
+## These are the tools I use for my projects 
+
 <div style="display: inline_block">
-  <img align="center" alt="Diego-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Diego-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Diego-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Diego-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" alt="Diego-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Diego-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Diego-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Diego-Js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+  <img align="center" alt="Diego-React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img align="center" alt="Diego-React" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img align="center" alt="Diego-React" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img align="center" alt="Diego-React" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img align="center" alt="Diego-HTML" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
- ##
+ ## Contact 
  
  <div> 
   <a href="https://www.youtube.com/channel/UCJq8ofl1smAUq35dq_UxOEA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
