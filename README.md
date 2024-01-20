@@ -1,8 +1,10 @@
 
 # <img src="https://media3.giphy.com/media/3ohhwyCdNDO380e0I8/giphy.gif?cid=ecf05e47849nqcfpeaob8xozde51qa2o1ayh74craadsrjqp&ep=v1_gifs_related&rid=giphy.gif&ct=s" alt="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="60"/> A simple Developer working on solutions
  
+The first solution I am working on is for local businesses and stores to highlight their products and services with [cityubi.com](https://www.cityubi.com/)
 
-The first solution I'm working on is [cityubi.com](https://www.cityubi.com/)
+### About me
+Front-end developer and software engineering student, working on the web for more than two years.
 
 ## These are the tools I use for my projects 
 
